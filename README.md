@@ -9,7 +9,7 @@ This resipository contains the listed programs
 * Plot 3
 * Plot 4
 
-Implementation
+# Implementation
 When calling any of the executables from the command line 
 
 '<> Python Data and Rayleigh distributions.py'
