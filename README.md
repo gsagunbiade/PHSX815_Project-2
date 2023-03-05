@@ -13,6 +13,7 @@ Implementation
 When calling any of the executables from the command line 
 
 '<> Python Data and Rayleigh distributions.py'
+
 '<> Random.py'
 
 A working python distribution having numpy and matplotlib installed is needed to excute this work
