@@ -8,6 +8,7 @@ This resipository contains the listed programs
 * Plot 2
 * Plot 3
 * Plot 4
+* Project_2 Write up (Essay)
 
 # Implementation
 When calling any of the executables from the command line 
